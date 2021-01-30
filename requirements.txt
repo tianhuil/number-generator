@@ -1,0 +1,12 @@
+# interactive Python
+ipykernel==5.3.4
+ipython==7.16.1
+jupyter==1.0.0
+
+# utilities
+tqdm==4.48.2
+black
+pytest
+
+# numbers
+num2words==0.5.10
